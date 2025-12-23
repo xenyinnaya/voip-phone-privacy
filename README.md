@@ -41,4 +41,4 @@ We may update this policy from time to time. Updates will be reflected on this p
 
 ## Contact Us
 
-Email: support@yourdomain.com
+Email: enyimmm@gmail.com
