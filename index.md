@@ -30,6 +30,16 @@ You can manage permissions in your device settings. You may contact us to reques
 
 We take reasonable measures to protect your data but cannot guarantee absolute security.
 
+## Account and Data Deletion
+
+Users can request deletion of their account and associated data by emailing:
+
+enyimmm@gmail.com
+
+Please include your username and registered email address in the request.  
+Account data will be permanently deleted within 30 days, except where retention is required by law.
+
+
 ## Children’s Privacy
 
 This app is not intended for children under 13. We do not knowingly collect data from children.
